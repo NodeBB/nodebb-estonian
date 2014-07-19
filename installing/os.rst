@@ -1,11 +1,11 @@
 NodeBB Installation by OS
 =========================
 
-The following are step-by-step guides to help you get up and running.
+Siit leiad õpetused, mis aitavad sul NodeBB foorumitarkvara paigaldada erinevatele operatsioonisüsteemidele.
 
 .. note::
 
-    If your operating system is not listed here, please feel free to request a guide on our `community <https://community.nodebb.org>`_ or even better yet, submit one here.
+    Kui sinu operatsioonisüsteemi siin listis ei eksisteeri, siis küsige õpetust meie `foorumist <https://community.nodebb.org>`_ või koostage ise üks õpetus.
 
 
 
@@ -22,4 +22,4 @@ The following are step-by-step guides to help you get up and running.
 * :doc:`Debian <os/debian>`
 * :doc:`SmartOS <os/smartos>`
 * :doc:`Windows <os/windows8>`
-* `CentOS <https://blog.tommyparnell.com/installing-nodebb-on-centos-6-5/>`_ (external)
+* `CentOS <https://blog.tommyparnell.com/installing-nodebb-on-centos-6-5/>`_ (väline link)
