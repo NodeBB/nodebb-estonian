@@ -1,7 +1,7 @@
 .. image:: https://i.imgur.com/3yj1n6N.png
 
 |
-**NodeBB** on järgmise generatsiooni foorumiplatvorm, mis kasutab oma süsteemis web socketeid reaalajas muudatuste ning teadete kuvamiseks. NodeBB pakub mitmeid modernseid võimalusi, näiteks sotsiaalvõrgustikega integratsiooni ning voogedastuse arutelusi.
+**NodeBB** on järgmise generatsiooni foorumiplatvorm, mis kasutab oma süsteemis web socketeid reaalajas muudatuste ning teadete kuvamiseks. NodeBB pakub mitmeid modernseid võimalusi, näiteks sotsiaalvõrgustikega integratsioon ning voogedastuse arutelud.
 
 NodeBB on avatud lähtekoodiga projekt, mis on saadaval `GitHubis <https://github.com/NodeBB/NodeBB/>`_. Ärge unustage ka vaatamast võimalusi, kuidas saate ise kasulik olla selle projekti jaoks - tõlked, vigade teatamine ja sõpradele rääkimine.
 
