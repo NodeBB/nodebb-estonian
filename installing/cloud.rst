@@ -1,12 +1,11 @@
-Installing NodeBB on the Cloud
+NodeBB paigaldamine pilveserverile
 ==============================
 
-The following are step-by-step guides to help you get up and running on the cloud using popular PaaS solutions.
+Siit leiad õpetused, mis aitavad sul NodeBB foorumitarkvara paigaldada erinevatele pilveserveritele, mis põhinevad PaaS lahendusel.
 
 .. note::
 
-    If the PaaS solution of your choice is not listed here, please feel free to request a guide on our `community <https://community.nodebb.org>`_ or even better yet, submit one here.
-
+    Kui sinu PaaS lahendusega pilveserveri teenust ei eksisteeri siin listis, siis küsige õpetust meie `foorumist <https://community.nodebb.org>`_ või koostage ise üks õpetus.
 
 
 .. toctree::
@@ -20,4 +19,4 @@ The following are step-by-step guides to help you get up and running on the clou
 * :doc:`Cloud9 <cloud/cloud9>`
 * :doc:`Openshift <cloud/openshift>`
 * :doc:`Nitrous.IO <cloud/nitrous>`
-* `Digital Ocean <http://burnaftercompiling.com/nodebb/setting-up-a-nodebb-forum-for-dummies/>`_ (external)
+* `Digital Ocean <http://burnaftercompiling.com/nodebb/setting-up-a-nodebb-forum-for-dummies/>`_ (väline link)
