@@ -1,4 +1,4 @@
-NodeBB Installation by OS
+NodeBB paigaldamine operatsioonisüsteemile
 =========================
 
 Siit leiad õpetused, mis aitavad sul NodeBB foorumitarkvara paigaldada erinevatele operatsioonisüsteemidele.
