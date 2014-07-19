@@ -1,16 +1,16 @@
 .. image:: https://i.imgur.com/3yj1n6N.png
 
 |
-**NodeBB** is a next-generation discussion platform that utilizes web sockets for instant interactions and real-time notifications. NodeBB forums have many modern features out of the box such as social network integration and streaming discussions.
+**NodeBB** on järgmise generatsiooni foorumiplatvorm, mis kasutab oma süsteemis web socketeid reaalajas muudatuste ning teadete kuvamiseks. NodeBB pakub mitmeid modernseid võimalusi, näiteks sotsiaalvõrgustikega integratsiooni ning voogedastuse arutelusi.
 
-NodeBB is an open source project which can be forked on `GitHub <https://github.com/NodeBB/NodeBB/>`_. Don't forget to check out the ways that you can help contribute to this project, from translations, pull requests, and telling your friends.
+NodeBB on avatud lähtekoodiga projekt, mis on saadaval `GitHubis <https://github.com/NodeBB/NodeBB/>`_. Ärge unustage ka vaatamast võimalusi, kuidas saate ise kasulik olla selle projekti jaoks - tõlked, vigade teatamine ja sõpradele rääkimine.
 
-Table of Contents
+Sisukord
 =================
 
 .. _installing:
 
-Installing NodeBB
+NodeBB paigaldamine
 -----------------
 
 .. toctree::
@@ -22,7 +22,7 @@ Installing NodeBB
 
 .. _configuring:
 
-Configuring NodeBB
+NodeBB konfigureerimine
 ------------------
 
 .. toctree::
@@ -31,7 +31,7 @@ Configuring NodeBB
     configuring/databases
     configuring/proxies
 
-Running NodeBB
+NodeBB jooksutamine
 ------------------
 
 .. toctree::
@@ -39,7 +39,7 @@ Running NodeBB
 
     running/index
 
-Upgrading NodeBB
+NodeBB uuendamine
 ------------------
 
 .. toctree::
@@ -47,7 +47,7 @@ Upgrading NodeBB
 
     upgrading/index
 
-Administrating NodeBB
+NodeBB haldamine
 ---------------------
 
 .. toctree::
@@ -57,7 +57,7 @@ Administrating NodeBB
     admin/sso
     admin/uploads
 
-Contributing to NodeBB
+NodeBB'le lisade kirjutamine
 ----------------------
 
 .. toctree::
@@ -66,7 +66,7 @@ Contributing to NodeBB
     contributing/style-guide
     modules/index
 
-Plugin System
+Plugin-süsteem
 -------------
 
 .. toctree::
@@ -76,7 +76,7 @@ Plugin System
     plugins/hooks
     plugins/settings
 
-Widgets System
+Widget-süsteem
 --------------
 
 .. toctree::
@@ -84,7 +84,7 @@ Widgets System
 
     widgets/create
 
-Theming Engine
+Teemade mootor
 --------------
 
 .. toctree::
@@ -94,7 +94,7 @@ Theming Engine
     themes/templates
 
 
-Developer's Resources
+Arendajate vahendid
 ---------------------
 
 .. toctree::
@@ -102,7 +102,7 @@ Developer's Resources
 
     resources
 
-Helping out the NodeBB Project
+NodeBB projektile kaasa aitamine
 ------------------------------
 
 .. toctree::
@@ -110,7 +110,7 @@ Helping out the NodeBB Project
 
     helping/index
 
-Troubleshooting / Help
+Vigade otsimine / Abi
 ----------------------
 
 .. toctree::
@@ -118,7 +118,7 @@ Troubleshooting / Help
 
     help/help
 
-Indices and tables
+Indeksid ja tabelid
 ==================
 
 * :ref:`genindex`
