@@ -11,7 +11,7 @@ Esmalt paigaldame põhitarkvara:
 
 Kui soovid kasutada MongoDB'd, LevelDB'd, või hoopiski mõnda muud andmebaasi peale Redis andmebaasi, siis uuri lähemalt :doc:`Andmebaasi konfigureerimine <../configuring/databases>` sektsioonist.
 
-**Kui sinu Ubuntu package manager installis Node.js versiooni, mis on väiksem kui 0.8, tuleb manuaalselt uuendada uuemale versioonile. Esiteks tehke kindlaks Node.js versioon ``node --version``:**
+**Kui sinu Ubuntu package manager installis Node.js versiooni, mis on väiksem kui 0.8, tuleb manuaalselt uuendada uuemale versioonile. Esiteks tehke kindlaks Node.js versioon** ``node --version``:
 
 
 .. code:: bash
