@@ -46,7 +46,7 @@ Käivitame NodeBB seadete muutmise režiimi ``setup`` flagiga:
 
 Alseaded on mõledud local serveri jaoks, kus Redis andmebaas töötab samuti samas keskkonnas. 
 
-Lõpetuseks tuleb foorum käivitada.
+Lõpetuseks tuleb foorum käivitada:
 
 
 .. code:: bash
