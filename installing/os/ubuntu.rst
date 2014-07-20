@@ -20,7 +20,7 @@ Kui soovid kasutada MongoDB'd, LevelDB'd, või hoopiski mõnda muud andmebaasi p
 	$ sudo apt-get update && sudo apt-get dist-upgrade
 
 
-Järgmiseks tuleb kloonida NodeBB Githubi repo sobivasse asukohta
+Järgmise sammuna tuleb kloonida NodeBB Githubi repo sobivasse asukohta
 
 
 .. code:: bash
