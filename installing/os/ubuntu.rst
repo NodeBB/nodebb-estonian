@@ -2,16 +2,16 @@
 Ubuntu
 --------------------
 
-First, we install our base software stack:
+Esmalt paigaldame põhitarkvara:
 
 .. code:: bash
 
 	$ sudo apt-get install git nodejs redis-server imagemagick npm
 
 
-If you want to use MongoDB, LevelDB, or another database instead of Redis please look at the :doc:`Configuring Databases <../configuring/databases>` section.
+Kui soovid kasutada MongoDB'd, LevelDB'd, või hoopiski mõnda muud andmebaasi peale Redis andmebaasi, siis uuri lähemalt :doc:`Andmebaasi konfigureerimine <../configuring/databases>` sektsioonist.
 
-**If your package manager only installed a version of Node.js that is less than 0.8 (e.g. Ubuntu 12.10, 13.04), use ``node --version`` to determine your version of Node.js:**
+**Kui sinu Ubuntu package manager installis Node.js versiooni, mis on väiksem kui 0.8, tuleb manuaalselt uuendada uuemale versioonile. Esiteks tehke kindlaks Node.js versioon ``node --version``:**
 
 
 .. code:: bash
@@ -20,7 +20,7 @@ If you want to use MongoDB, LevelDB, or another database instead of Redis please
 	$ sudo apt-get update && sudo apt-get dist-upgrade
 
 
-Next, clone this repository:
+Järgmiseks tuleb kloonida NodeBB Githubi repo sobivasse asukohta
 
 
 .. code:: bash
@@ -28,7 +28,7 @@ Next, clone this repository:
 	$ git clone git://github.com/NodeBB/NodeBB.git nodebb
 
 
-Obtain all of the dependencies required by NodeBB:
+Paigaldame NodeBB foorumitarkvara:
 
 .. code:: bash
 
@@ -36,7 +36,7 @@ Obtain all of the dependencies required by NodeBB:
     $ npm install
 
 
-Initiate the setup script by running the app with the ``setup`` flag:
+Käivitame NodeBB seadete muutmise režiimi ``setup`` flagiga:
 
 
 .. code:: bash
@@ -44,9 +44,9 @@ Initiate the setup script by running the app with the ``setup`` flag:
 	$ ./nodebb setup
 
 
-The default settings are for a local server running on the default port, with a redis store on the same machine/port. 
+Alseaded on mõledud local serveri jaoks, kus Redis andmebaas töötab samuti samas keskkonnas. 
 
-Lastly, we run the forum.
+Lõpetuseks tuleb foorum käivitada.
 
 
 .. code:: bash
@@ -54,4 +54,4 @@ Lastly, we run the forum.
 	$ ./nodebb start
 
 
-NodeBB can also be started with helper programs, such as ``supervisor`` and ``forever``. :doc:`Take a look at the options here <../../running/index>`.
+NodeBB'd saab käivtada ka muude programmidega, näiteks ``supervisor`` ja ``forever``. :doc:`Vaata lähemalt siit <../../running/index>`.
